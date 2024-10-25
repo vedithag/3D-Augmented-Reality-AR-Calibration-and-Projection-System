@@ -1,4 +1,4 @@
-# Real-Time-3D-AR-with-Camera-Calibration-Pose-Estimation
+# 3D Augmented Reality (AR) Calibration and Projection System
 
 ## **Project Overview**
 This project showcases a sophisticated 3D Augmented Reality (AR) system implemented in C++ using OpenCV. Designed for real-time applications, this AR system performs camera calibration, feature detection, and pose estimation to overlay virtual 3D objects onto a live video stream. It combines classic computer vision techniques with modern AR capabilities, providing an accurate projection of virtual objects in a real-world context, making it highly applicable to AR-based applications in fields like robotics, computer vision, and interactive media.
